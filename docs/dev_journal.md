@@ -16,3 +16,10 @@ The reason for these choices is mostly because I want to deepen my understanding
 Also, I want to start as vanilla as possible, that is without external libraries or frameworks. Then, I will introduce them. This is mostly for myself, so that I can better understand the basics.
 
 Got the PHP hello world running using Apache 2. Documented the process in the README, in the "Development environment setup" section.
+
+## 2025-11-21
+
+Pivoted to using Laravel as a full-stack framework for developing both frontend and backend.
+Watched a Laravel bootcamp course on YouTube, installed all the dependencies and created a working Laravel hello world app.
+Documented the whole process in README.md.
+
