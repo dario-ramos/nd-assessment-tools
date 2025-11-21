@@ -23,3 +23,4 @@ Pivoted to using Laravel as a full-stack framework for developing both frontend 
 Watched a Laravel bootcamp course on YouTube, installed all the dependencies and created a working Laravel hello world app.
 Documented the whole process in README.md.
 
+Added auth to the project using the laravel-breeze library.
